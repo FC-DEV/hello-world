@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 blka
+=======
+Test push via command line
+>>>>>>> f08716674f3db9a6850bfd48cfdcf9403438237b
